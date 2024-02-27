@@ -6,6 +6,7 @@
 
 Projeto construído do canal [Manual do Dev](https://www.youtube.com/@ManualdoDev).
 
+My Project:
 [🔗 Clique aqui para acessar](https://pedrosouza09.github.io/PokeDex_Pedro/)
 
 ## 🛠 Tecnologias
